@@ -8,3 +8,6 @@ My data science and analytics projects from Data Science Bootcamp batch 10 with 
 4. R Visualization with R markdown
 5. Dashboard (Looker GA4)
 6. Linear Regression Model (caret)
+
+## Contact Me
+jirasiri713@gmail.com
